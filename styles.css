@@ -1,0 +1,20 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: bisque;
+}
+
+header {
+    text-align: center;
+    background-color: beige;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+}
+
+section {
+    margin-bottom: 20px;
+}
